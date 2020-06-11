@@ -1,3 +1,6 @@
+# custom ignore
+.DS_Store
+
 # Prerequisites
 *.d
 
